@@ -1,0 +1,12 @@
+# 个人敏感文件：绝不要提交
+campus-autologin.config.json
+campus-autologin.state.json
+*.log
+*.state.json
+
+# 打包产物（Release 压缩包不入库，exe 随仓库分发）
+*.zip
+
+# 编辑器
+.vscode/
+.idea/

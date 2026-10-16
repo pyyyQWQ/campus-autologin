@@ -1,0 +1,19 @@
+{
+    "portalHost": "http://10.0.0.1",
+    "userId": "你的学号或账号",
+    "password": "",
+    "passwordEncrypted": "",
+    "passwordProtection": "dpapi",
+    "ispSuffix": "",
+    "portalType": "0",
+    "ssidPattern": "校园|CMCC|WiFi",
+    "wlanacname": "",
+    "vlan": "",
+    "watchIntervalSeconds": 15,
+    "offlineConfirmCount": 2,
+    "showNotifications": true,
+    "probeUrls": [
+        "http://connect.rom.miui.com/generate_204",
+        "http://www.gstatic.com/generate_204"
+    ]
+}
